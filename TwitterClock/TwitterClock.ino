@@ -4,7 +4,9 @@ Welcome to the Twitter clock!
 instead of time progressing by seconds, it progresses by tweets. This clock represents, in a different way, the 
 progression of our society based upon how much data we create and consume.
 
-This clock moves whenever someone tweets with #trump attached. 
+This clock moves whenever someone tweets with #trump attached.
+
+ here is the IFTTT recipe:   https://ifttt.com/recipes/402057-twitter-clock
 */
 
 
